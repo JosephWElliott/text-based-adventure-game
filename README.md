@@ -24,14 +24,16 @@ How to Run
 To run the game, ensure you have a Java Development Kit (JDK) installed. Compile and execute the Game.java file using the following commands:
 
 bash
+
 Copy code
+
 javac Game.java
+
 java Game
+
 Future Enhancements
 Inventory System: Add a feature that allows the player to collect and use items.
-
 Combat Mechanics: Introduce a combat system where players can fight NPCs or other entities.
-
 Save/Load Feature: Implement a system to save and load game progress.
 
 Contributing
